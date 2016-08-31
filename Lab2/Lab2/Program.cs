@@ -24,5 +24,10 @@ namespace Lab2
         {
 
         }
+
+        static void jdfapoijdpfso()
+        {
+
+        }
     }
 }
